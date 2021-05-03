@@ -13,7 +13,7 @@ ds <- function(x) {
   data.frame(min = min(x),
              median = median(x),
              mean = mean(x),
-             max = max(x))
+             max = max(x),
+             s d = s d(x)
+						 r a n g e= m a x (x) - m i n (x))
 }
-
-
